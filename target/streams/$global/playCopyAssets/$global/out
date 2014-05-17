@@ -1,6 +1,7 @@
 [0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
 [0m[[0mdebug[0m] [0m	(C:\Users\Ryan\Documents\GitHub\DC\public\images\favicon.png,C:\Users\Ryan\Documents\GitHub\DC\target\scala-2.10\classes\public\images\favicon.png)[0m
 [0m[[0mdebug[0m] [0m	(C:\Users\Ryan\Documents\GitHub\DC\public\javascripts\jquery-1.9.0.min.js,C:\Users\Ryan\Documents\GitHub\DC\target\scala-2.10\classes\public\javascripts\jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Ryan\Documents\GitHub\DC\public\libs\bootstrap\css\bootstrap-login.css,C:\Users\Ryan\Documents\GitHub\DC\target\scala-2.10\classes\public\libs\bootstrap\css\bootstrap-login.css)[0m
 [0m[[0mdebug[0m] [0m	(C:\Users\Ryan\Documents\GitHub\DC\public\libs\bootstrap\css\bootstrap-modified.min.css,C:\Users\Ryan\Documents\GitHub\DC\target\scala-2.10\classes\public\libs\bootstrap\css\bootstrap-modified.min.css)[0m
 [0m[[0mdebug[0m] [0m	(C:\Users\Ryan\Documents\GitHub\DC\public\libs\bootstrap\css\bootstrap-modified2.min.css,C:\Users\Ryan\Documents\GitHub\DC\target\scala-2.10\classes\public\libs\bootstrap\css\bootstrap-modified2.min.css)[0m
 [0m[[0mdebug[0m] [0m	(C:\Users\Ryan\Documents\GitHub\DC\public\libs\bootstrap\css\bootstrap-theme.css,C:\Users\Ryan\Documents\GitHub\DC\target\scala-2.10\classes\public\libs\bootstrap\css\bootstrap-theme.css)[0m
